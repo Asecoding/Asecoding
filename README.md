@@ -1,14 +1,12 @@
 
-# Hi, I'm <ASSEFA ENDALE>! 👋
+# Hi, I'm ASSEFA ENDALE 👋
 
 I am a passionate Backend Wed Development student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of programming, exploring new ideas, solving problem and sharing my insights with the community.
-
-[<Asecoding>'s Stats](https://github-readme-stats.vercel.app/api?Asecoding=<Asecoding>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my ProDev Backend Development in ALX.
-- 🌐 Proud member of the [ALX_Africa](https://alxafrica.com/), contributing to the tech community.
+- 🌐 Proud member of the ALX_Africa (https://alxafrica.com/), contributing to the tech community.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,python,css,Git,Github)](https://skillicons.dev)
