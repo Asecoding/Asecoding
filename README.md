@@ -1,7 +1,7 @@
 
 # Hi, I'm ASSEFA ENDALE 👋
 
-I am a passionate Backend Wed Development student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of programming, exploring new ideas, solving problem and sharing my insights with the community.
+I am a passionate Backend Wed Development student at ALX Africa, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of programming, exploring new ideas, solving problem and sharing my insights with the community.
 
 ## 🚀 About Me
 
