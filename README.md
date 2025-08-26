@@ -25,7 +25,7 @@ I am a passionate Backend Wed Development student at ALX Africa, driven by a cur
 
 
 ## 📬 Get in TTouch
-- [Click here to visit my Resume ](https://drive.google.com/file/d/1-7CaYC6ZfwpGHv8tG-M1cO3KO68cZWQE/view?usp=drivesdk)
+- Click here to visit [my Resume ](https://drive.google.com/file/d/1-7CaYC6ZfwpGHv8tG-M1cO3KO68cZWQE/view?usp=drivesdk)
 - Connect with me on [Twitter](https://twitter.com/AssefaEndal)
 - Connect with me on [Linkedin](https://linkedin.com/in/AssefaEndale)
 
